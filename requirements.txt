@@ -1,0 +1,4 @@
+llama-stack==0.0.40
+llama-models==0.0.40
+pyzmq==26.2.1
+pypdf==6.21.0
